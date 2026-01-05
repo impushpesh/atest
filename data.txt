@@ -6,3 +6,6 @@ This is the part added from dev 1 branch
 
 Now i am adding this line to similate conflict
 
+Now this is the next line i added
+
+Now this is the next line i added
