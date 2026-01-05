@@ -3,3 +3,5 @@ This is pushed from main branch
 This is added from main branch second time
 
 This is the part added from dev 1 branch
+
+This is the part added from main branch to make a conflict to dev1 branch
