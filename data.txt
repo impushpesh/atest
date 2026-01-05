@@ -9,3 +9,5 @@ Now i am adding this line to similate conflict
 Now this is the next line i added
 
 Now this is the next line i added
+
+This is the part added from main branch to make a conflict to dev1 branch
